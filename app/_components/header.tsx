@@ -14,6 +14,6 @@ const Header = () => {
       </CardContent>
     </Card>
   );
-}
+};
 
 export default Header;
